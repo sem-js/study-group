@@ -9,6 +9,7 @@ Prior to the study group meeting
 * send a reminder email in meetup a few days before the actual meetup
 * Use twitter to remind people of the meetup before the meetup
 * Get a 'regular' to run a group project, if there is one that is happening (those leading the study group need to focus on the study group)
+* It might also be useful to review the meetup list of who is attending, and get an idea of first timers from this list
 
 At the study group meeting
 --------------------------
@@ -41,4 +42,5 @@ End of the meeting:
 After (and in between) study group meetings
 -------------------------------------------
 * Continue trying to help the members in between meetings, usually through gitter.im or emails
+* Might also be useful to use the "good to see you" feature of meetup, that is sent out in an email after the meetup
 * Make sure to schedule the next study group, if you haven't already
